@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **langchain, llamaindex,RAG**
 
-- 📄 My Resume [https://drive.google.com/file/d/1_iGqlX9mzhn_tVXdL_58KmSz1b6zJ1rV/view?usp=sharing]
+- 📄 My Resume [https://drive.google.com/file/d/1_U3mzfnY2FBa4wVBvV-KgeYyfdG1Os5-/view?usp=sharing]
 - 💬 Ask me about **Robotics and AI**
 
 - 📫 How to reach me **takalkarsharwin@gmail.com**
